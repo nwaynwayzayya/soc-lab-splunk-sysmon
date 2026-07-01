@@ -22,8 +22,6 @@ Rather than focusing on offensive security techniques, this lab focuses on under
 
 ## Lab Architecture
 
-> *(Insert architecture diagram here)*
-
 ```text
                 +-----------------------+
                 |      Kali Linux       |
@@ -111,3 +109,11 @@ This project was built as part of my cybersecurity learning journey using public
 This project was created for educational purposes only.
 
 All attack simulations were performed exclusively inside an isolated virtual lab environment using systems that I own and control. No testing was performed against unauthorized systems or networks.
+
+---
+
+## Documentation Note
+
+Some screenshots in this repository may show timestamps that do not perfectly align with one another. During the initial lab setup and simulation, I occasionally forgot to capture screenshots and repeated certain steps in the isolated lab environment to document the process more clearly.
+
+These repeated actions were performed solely for documentation purposes and do not affect the overall workflow or results presented in this project.

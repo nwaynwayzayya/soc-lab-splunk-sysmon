@@ -19,6 +19,7 @@ VirtualBox was installed on the host machine to provide virtualization capabilit
 
 After installation, it was used to create and manage both virtual machines.
 
+> **Screenshot:** VirtualBox Manager
 ![VirtualBox](/screenshots/virtualbox.png)
 
 ---
@@ -35,6 +36,7 @@ Configuration included:
 * Windows installation
 * Initial operating system setup
 
+> **Screenshot:** Windows VM settings
 ![Windows](/screenshots/windows.png)
 ![Windows2](/screenshots/windows2.png)
 
@@ -51,6 +53,7 @@ Configuration included:
 * CPU allocation
 * Kali Linux installation
 
+> **Screenshot:** Kali VM settings
 ![Kali](/screenshots/kali.png)
 ![Kali2](/screenshots/kali2.png)
 

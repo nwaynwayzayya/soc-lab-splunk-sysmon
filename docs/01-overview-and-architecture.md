@@ -88,8 +88,6 @@ Within this project it is used to:
 
 # Lab Architecture
 
-> **Insert architecture diagram here**
-
 ```text
                 +-----------------------+
                 |      Kali Linux       |
